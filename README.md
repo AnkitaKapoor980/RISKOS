@@ -1,4 +1,4 @@
-# RISKOSS - Financial Market Risk Prediction System 📈
+# RISKOS - Financial Market Risk Prediction System 📈
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://docker.com)
